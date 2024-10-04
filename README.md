@@ -12,6 +12,7 @@ Bem-vindo ao repositório onde reúno todos os projetos desenvolvidos durante me
 2. **Programação Orientada a Objetos (PY)**
    - **Status:** Concluído ✔️
    - **Descrição:** Implementação de soluções utilizando o paradigma de programação orientada a objetos. Desenvolvimento de classes, herança e encapsulamento.
+   - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/EnergiaSolar)
 
 3. **Técnicas de Programação I (PY)**
    - **Status:** Concluído ✔️
