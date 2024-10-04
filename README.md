@@ -17,7 +17,7 @@ Bem-vindo ao repositório onde reúno todos os projetos desenvolvidos durante me
 3. **Técnicas de Programação I (PY)**
    - **Status:** Concluído ✔️
    - **Descrição:** Técnicas avançadas de programação com foco em eficiência e boas práticas.
-   - **Projeto Final:** [Link para o Projeto](#)
+   - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/Queimadas)
 
 4. **Extração de Dados I**
    - **Status:** Em andamento
