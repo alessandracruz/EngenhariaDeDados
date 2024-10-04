@@ -7,7 +7,7 @@ Bem-vindo ao repositório onde reúno todos os projetos desenvolvidos durante me
 1. **Lógica de Programação II (PY)**
    - **Status:** Concluído ✔️
    - **Descrição:** Introdução à lógica de programação com Python, abordando estruturas de dados, loops, funções e conceitos básicos de programação.
-   - **Projeto Final:** [Link para o Projeto](#)
+   - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/FineNces)
 
 2. **Programação Orientada a Objetos (PY)**
    - **Status:** Concluído ✔️
