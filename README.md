@@ -20,15 +20,17 @@ Bem-vindo ao repositório onde reúno todos os projetos desenvolvidos durante me
    - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/Queimadas)
 
 4. **Extração de Dados I**
-   - **Status:** Em andamento
+   - **Status:** Concluído ✔️
    - **Descrição:** Fundamentos de extração de dados de diferentes fontes, tais como bancos de dados SQL e NoSQL, além de técnicas de coleta de dados estruturados e não estruturados.
+   - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/ExtracaoDeDados)
 
 5. **Analytics Engineering**
-   - **Status:** A iniciar em 23/10/2024
+   - **Status:** Concluído ✔️
    - **Descrição:** Construção de pipelines de dados e aplicação de análises avançadas em grandes volumes de dados.
+   - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/AnalyticsEngineering)
 
 6. **Big Data**
-   - **Status:** A iniciar em 13/11/2024
+   - **Status:** Em andamento
    - **Descrição:** Conceitos de Big Data e ferramentas utilizadas para processamento de grandes volumes de dados como Hadoop, Spark, etc.
 
 
