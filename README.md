@@ -30,7 +30,6 @@ Bem-vindo ao repositório onde reúno todos os projetos desenvolvidos durante me
    - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/AnalyticsEngineering)
 
 6. **Big Data**
-   - **Status:** Em andamento
+   - **Status:** Concluído ✔️
    - **Descrição:** Conceitos de Big Data e ferramentas utilizadas para processamento de grandes volumes de dados como Hadoop, Spark, etc.
-
-
+   - **Projeto Final:** [Link para o Projeto](https://github.com/alessandracruz/BigData)
